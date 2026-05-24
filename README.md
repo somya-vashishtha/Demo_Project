@@ -1,4 +1,5 @@
 # Demo_Project
-To learn the basicsof github.
+To learn the basics of github.
 <br>
-Author - Somya Vashishtha
+Author - Somya (Banasthali Vidyapith)
+
